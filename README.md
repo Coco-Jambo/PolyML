@@ -10,7 +10,7 @@ We trained a model from scratch using external packages, and ranked 5 on 28 for 
 * Julia Grenet
 * Mohammed (I forgot to ask him for his last name :(( )
 
-## Languages and software used
+## Languages and tools used
 * Python
 * Panda
 * SkLearn
